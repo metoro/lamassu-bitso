@@ -1,4 +1,4 @@
-lamassu-bitstamp
+lamassu-bitso
 ================
 
-Lamassu Bitstamp ticker and trader
+Lamassu Bitso ticker and trader
